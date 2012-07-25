@@ -4,10 +4,10 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tl3shi.github.com/atom.xml" rel="self"/>
   <link href="http://tl3shi.github.com/"/>
-  <updated>2012-07-25T23:04:12+08:00</updated>
+  <updated>2012-07-25T23:20:53+08:00</updated>
   <id>http://tl3shi.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[tanglei]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,9 @@
     <link href="http://tl3shi.github.com/blog/2012/07/25/hello-world/"/>
     <updated>2012-07-25T23:01:00+08:00</updated>
     <id>http://tl3shi.github.com/blog/2012/07/25/hello-world</id>
-    <content type="html"><![CDATA[<p>hello world</p>
+    <content type="html"><![CDATA[<p>hello world
+this is my first page using:github+git+octopress.
+where come to my another page:http://www.tanglei.name</p>
 ]]></content>
   </entry>
   
