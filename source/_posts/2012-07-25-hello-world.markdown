@@ -7,4 +7,4 @@ categories:
 ---
 hello world
 this is my first page using:github+git+octopress.
-where come to my another page:http://www.tanglei.name
+welcome to my another page:http://www.tanglei.name
